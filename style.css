@@ -1,0 +1,87 @@
+
+body{
+    background-color: blanchedalmond;
+    color: black;
+
+}
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 10%;
+}
+p{
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 40px;
+    color:darkcyan;
+
+         
+}
+header{
+    width: 100;
+    background-color: cadetblue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 3.5rem;
+    font-style:inherit;
+    font-weight: 200;
+    text-align: center;
+    padding-top: 30%;
+    padding-bottom: 30px;
+    color:blanchedalmond;
+    
+        
+} 
+nav{
+    width: 100%;
+    float: left;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+nav > div{
+    width: 20%;
+    float: left;
+    background-color: rgb(212, 236, 234);
+    height: 5%;
+    padding: 1.1rem;
+    box-sizing: border-box;
+    border: 5px;
+}
+nav > div:hover{
+    background-color: burlywood;
+    color:aliceblue;
+
+}
+main{
+    background-color:white;
+    color: aliceblue;
+}
+ul {
+    width: 100%;
+    float: left;
+    box-sizing: border-box;
+}
+li{
+    color:black;
+    float: left;
+    margin: auto;
+    list-style: none;
+    width: 25%;
+    height: auto;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
+div{
+    color:black;
+    float: center;
+    margin: auto;
+    list-style: none;
+    width: 25%;
+    height: auto;
+    text-align: center;
+    font-size: 1.5rem;
+
+}
